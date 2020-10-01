@@ -2,20 +2,20 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Camisa Polo Gola Detalhada  Azul Oceano",
+      "image_url": "https://a-static.mlcdn.com.br/618x463/polo-piquet-gola-detalhada-azul-oceano-pierre-cardin/pierrecardin/15275/046c780d99f148373e0e6db7a69122bc.jpg",
+      "price": 120
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Camiseta Mormaii Keep Basic Azul Oceano",
+      "image_url": "https://www.almadepraia.com.br/media/catalog/product/cache/1/image/550x588/9df78eab33525d08d6e5fb8d27136e95/c/a/camblu03_5.jpg",
+      "price": 39.9
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Camisa Polo Kamylus Oceano",
+      "image_url": "https://static.netshoes.com.br/produtos/camisa-polo-infantil-kamylus-oceano-baleia-masculino/88/E87-1064-188/E87-1064-188_zoom1.jpg?ts=1594397860&ims=544x",
       "price": 70
     },
     {
